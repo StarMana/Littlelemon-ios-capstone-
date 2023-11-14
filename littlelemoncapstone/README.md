@@ -16,5 +16,4 @@ This is an capstone project of iOS certificate course by Meta.
 ![03](https://github.com/StarMana/https---github.com-StarMana-Littlelemon-ios-capstone/assets/41525540/70815b27-b5f9-4620-b78c-121dd9fdc56b)
 
 
-
-![04](https://github.com/StarMana/https---github.com-StarMana-Littlelemon-ios-capstone/assets/41525540/3ac8e3f8-2129-459e-964f-537b3ebd0200)
+![04 (1)](https://github.com/StarMana/https---github.com-StarMana-Littlelemon-ios-capstone/assets/41525540/cf4e00bf-c3bf-4728-b2b8-a680b1ed7d09)
